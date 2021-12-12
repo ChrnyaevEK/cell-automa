@@ -1,1 +1,3 @@
 cellpylib~=2.3.0
+numpy~=1.21.4
+matplotlib~=3.5.1
